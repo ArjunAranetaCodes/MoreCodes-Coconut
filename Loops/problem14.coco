@@ -1,0 +1,13 @@
+
+num = 0
+sum = 0
+ave = 0
+
+for x in range(0, 5):
+ num = int(input("Enter a number: "))
+ sum = sum + num
+
+ave = sum / 5;
+"Average is " + str(ave) |> print
+
+

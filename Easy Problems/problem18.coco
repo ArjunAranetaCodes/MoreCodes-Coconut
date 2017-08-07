@@ -1,0 +1,12 @@
+
+word = "program"
+letter = "a"
+letterCount = 0
+
+for x in range(0,len(word)):
+ if letter.find(word[x]) != -1:
+  letterCount = letterCount + 1
+
+"Total: " + str(letterCount) |> print
+
+

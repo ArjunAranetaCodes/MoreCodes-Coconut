@@ -1,0 +1,21 @@
+#Basics of Functions
+
+def function1():
+ "Hello there!" |> print
+
+def function2(num):
+ "That number is " + str(num) |> print
+
+def function3():
+ num_sum = 1 + 1
+ return num_sum
+
+def function4(firstName, lastName):
+ fullName = firstName + " " + lastName
+ return fullName
+
+function1()
+function2(5)
+"It's true! 1 + 1 = " + str(function3()) |> print
+"Hi " + function4("More", "Codes") |>print
+

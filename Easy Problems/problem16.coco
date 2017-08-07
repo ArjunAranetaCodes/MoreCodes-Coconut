@@ -1,0 +1,10 @@
+
+word1 = "More"
+word2 = "Codes"
+
+if word1 == word2:
+ "Equal" |> print
+else:
+ "Not Equal" |> print
+
+

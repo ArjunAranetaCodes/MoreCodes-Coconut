@@ -1,0 +1,13 @@
+
+num1 = input("Enter value of num1: ")
+num2 = input("Enter value of num2: ")
+sum = int(num1) + int(num2)
+diff = int(num1) - int(num2)
+prod = int(num1) * int(num2)
+quot = int(num1) / int(num2)
+"Sum is " + str(sum) |> print
+"Difference is " + str(diff) |> print
+"Product is " + str(prod) |> print
+"Quotient is " + str(quot) |> print
+
+

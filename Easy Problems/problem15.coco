@@ -1,0 +1,10 @@
+
+word1 = "programming"
+word2 = "program"
+
+if word1.find(word2) != -1:
+ word2 + " found" |> print
+else:
+ word2 + " not found" |> print
+
+

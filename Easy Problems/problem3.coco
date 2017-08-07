@@ -1,0 +1,7 @@
+
+length = input("Enter value of length: ")
+width = input("Enter value of width: ")
+area = float(length) * float(width)
+"Area of Rectangle is " + str(area) |> print
+
+

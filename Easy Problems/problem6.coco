@@ -1,0 +1,8 @@
+
+num = input("Enter value of num: ")
+if int(num) % 2 == 0 :
+ "Number is even" |> print
+else:
+ "Number is odd" |> print
+
+

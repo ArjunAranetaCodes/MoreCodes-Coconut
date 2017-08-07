@@ -1,0 +1,10 @@
+
+word = "anna"
+tempWord = ''.join(reversed(word))
+
+if word == tempWord:
+ "Palindrome" |> print
+else:
+ "Not Palindrome" |> print
+
+

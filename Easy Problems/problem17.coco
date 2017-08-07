@@ -1,0 +1,10 @@
+
+word = "program"
+letter = "a"
+
+if word.find(letter) != -1:
+ "Contains a" |> print
+else:
+ "Does not contain a" |> print
+
+

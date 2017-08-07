@@ -1,0 +1,10 @@
+#Basic Variable Implementations
+
+name = "Mark"
+sex = 'M'
+age = 20
+
+"Name: " + name |> print
+"Sex: " + sex |> print
+"Age: " + str(age) |> print
+

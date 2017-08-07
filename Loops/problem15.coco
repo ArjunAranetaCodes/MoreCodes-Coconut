@@ -1,0 +1,8 @@
+
+num = 0
+while (num > -1):
+ num = int(input("Enter a number: "))
+
+"Terminated" |> print
+
+

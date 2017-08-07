@@ -1,0 +1,10 @@
+
+n = 11
+sum = 0
+
+for x in range(1, n):
+ sum = sum + n
+
+"Sum is " + str(sum) |> print
+
+

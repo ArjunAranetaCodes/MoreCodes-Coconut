@@ -1,0 +1,10 @@
+#Variables and Input
+
+name = input("What is your name? ")
+sex = input("What is your sex? ")
+age = input("What is your age? ")
+
+"Name: " + name |> print
+"Sex: " + sex |> print
+"Age: " + str(age) |> print
+

@@ -1,0 +1,9 @@
+
+word = "MoreCodes"
+letterCount = 0
+for letter in word:
+ letterCount += 1
+
+"String Length: " + str(letterCount) |> print
+
+

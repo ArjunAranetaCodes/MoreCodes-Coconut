@@ -1,0 +1,6 @@
+
+word = "MoreCodes"
+strLength = len(word)
+"String Length: " + str(strLength) |> print
+
+
