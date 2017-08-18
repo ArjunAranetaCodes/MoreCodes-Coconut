@@ -1,0 +1,10 @@
+
+list1 = [1,2,3]
+list2 = [1,2,3]
+
+if list1 == list2:
+ "Equal Lists" |> print
+else:
+ "Not Equal" |> print
+
+

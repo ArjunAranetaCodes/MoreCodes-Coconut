@@ -1,0 +1,5 @@
+
+lstNumbers = [1,2,3]
+"Lowest number: " + str(min(lstNumbers)) |> print
+
+

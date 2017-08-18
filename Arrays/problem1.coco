@@ -1,5 +1,0 @@
-
-arrNumbers = [1,2,3]
-"Array Length: " + str(len(arrNumbers)) |> print
-
-

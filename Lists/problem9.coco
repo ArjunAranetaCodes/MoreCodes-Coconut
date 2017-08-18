@@ -1,0 +1,5 @@
+
+lstNumbers = [1,2,3]
+"Sum is " + str(sum(lstNumbers)) |> print
+
+

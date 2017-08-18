@@ -1,5 +1,0 @@
-
-arrNumbers = [1,2,3]
-"Average is " + str(sum(arrNumbers) / 3) |> print
-
-

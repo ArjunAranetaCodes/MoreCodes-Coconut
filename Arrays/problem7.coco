@@ -1,5 +1,0 @@
-
-arrNumbers = [1,2,3]
-"Largest number: " + str(max(arrNumbers)) |> print
-
-

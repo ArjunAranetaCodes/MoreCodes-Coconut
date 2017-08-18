@@ -1,0 +1,5 @@
+
+lstNumbers = [1,2,3]
+lstNumbers.index(2) |> print
+
+
