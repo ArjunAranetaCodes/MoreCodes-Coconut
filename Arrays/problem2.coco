@@ -1,0 +1,5 @@
+
+arrNumbers = [1,2,3]
+arrNumbers.index(2) |> print
+
+

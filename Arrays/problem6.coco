@@ -1,0 +1,8 @@
+
+arrNumbers = [1,2,3]
+if arrNumbers.index(2) != -1:
+ "Contains 2" |> print
+else:
+ "Does not contain 2" |> print
+
+
