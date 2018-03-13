@@ -1,4 +1,4 @@
-#Write a program that converts numbers to words.
+#Problem 19: Write a program that converts numbers to words.
 def NumberToWords(number, word):
  if (number >= 1) and (number <= 19):
   map = ["One", "Two", "Three", "Four", "Five", "Six", "Seven",
