@@ -120,6 +120,9 @@ Computer Programming Problems and Solutions with the Coconut Language
 19. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Coconut/blob/master/Conversions/problem19.coco" target="_blank">Write a program that converts numbers to words.</a>
 20. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Coconut/blob/master/Conversions/problem20.coco" target="_blank">Write a program that converts a number to its corresponding month (e.g. 1 = January).</a>
 
+- - - - 
+###  [Coconut Number Patterns Programming Problems](Number Patterns/) <- Click to go to Number Patterns Problems
+
 #
 
 <p align="center">
