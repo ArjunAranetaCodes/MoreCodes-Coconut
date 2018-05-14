@@ -123,6 +123,9 @@ Computer Programming Problems and Solutions with the Coconut Language
 - - - - 
 ###  [Coconut Number Patterns Programming Problems](Number Patterns/) <- Click to go to Number Patterns Problems
 
+- - - - 
+###  [Coconut Regular Expressions Programming Problems](Regular Expressions/) <- Click to go to Regular Expressions Problems
+
 #
 
 <p align="center">
